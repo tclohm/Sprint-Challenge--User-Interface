@@ -261,6 +261,11 @@ footer nav a {
     color: black;
 }
 
+.about-information .learn-more-btn:hover {
+    background-color: black;
+    color: white;
+}
+
 .footer-content {
     display: flex;
     flex-direction: column;
