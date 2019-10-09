@@ -34,13 +34,32 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+
+	HTML is the bones and scafolding of a web page. It helps you structure and organize your webpage so other developers understand your webflow.
+
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+
+	The two big differences between block and display are that block display as a block which takes the full width and forces a line break, and the inline takes only enough space for it's content.
+
 
 3. What are the 4 areas of the box model?
 
+
+	The 4 areas of the box model are margin, border, padding, content
+
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+
+	If it defaults to the row, the align-items would center the items along the cross-axis meaning it would bring the content down to the center of the our parent container.
+
+
 5. Explain why git is valuable to a team of developers.
+
+
+	Git is for version control so many developers can collaborate on a project and with their own copies on their local environment and not work about the master branch in the cloud until it's time to push. It allows developers to branch their projects to experiment and merge back if necessary. If things go wrong developers can reset the tree to a previous build. It's a great tool.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
